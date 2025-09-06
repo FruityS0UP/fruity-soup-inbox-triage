@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "date": "2025-08-24 23:39",
+    "from": "ACME Support <support@acmecorp.com>",
+    "to": "you@example.com",
+    "subject": "Win free money, click here now",
+    "body": "FREE money waiting! Click here to claim your crypto giveaway."
+  },
+  {
+    "id": "2",
+    "date": "2025-08-24 05:39",
+    "from": "VendorCo Billing <billing@vendorco.com>",
+    "to": "you@example.com",
+    "subject": "Invoice 42910 is past due \u2014 final notice",
+    "body": "Hello, your invoice #42910 is now overdue. Please remit payment by EOD today to avoid service interruption. Amount due: $249."
+  },
+  {
+    "id": "3",
+    "date": "2025-08-23 23:39",
+    "from": "Sara (Prospect) <sara@prospect.io>",
+    "to": "you@example.com",
+    "subject": "Bug report: checkout failing on mobile",
+    "body": "Hi, we noticed a crash when users add an item to cart on iOS. Steps to reproduce: open app, go to checkout, error appears."
+  },
+  {
+    "id": "4",
+    "date": "2025-08-25 22:39",
+    "from": "Old Friend <friend@personal.com>",
+    "to": "you@example.com",
+    "subject": "Invoice 42910 is past due \u2014 final notice",
+    "body": "Hello, your invoice #42910 is now overdue. Please remit payment by EOD today to avoid service interruption. Amount due: $249."
+  },
+  {
+    "id": "5",
+    "date": "2025-08-24 18:39",
+    "from": "VendorCo Billing <billing@vendorco.com>",
+    "to": "you@example.com",
+    "subject": "Invoice 42910 is past due \u2014 final notice",
+    "body": "Hello, your invoice #42910 is now overdue. Please remit payment by EOD today to avoid service interruption. Amount due: $249."
+  },
+  {
+    "id": "6",
+    "date": "2025-08-25 19:39",
+    "from": "VendorCo Billing <billing@vendorco.com>",
+    "to": "you@example.com",
+    "subject": "Payment received \u2014 receipt attached",
+    "body": "Hello, your invoice #42910 is now overdue. Please remit payment by EOD today to avoid service interruption. Amount due: $249."
+  },
+  {
+    "id": "7",
+    "date": "2025-08-24 19:39",
+    "from": "Old Friend <friend@personal.com>",
+    "to": "you@example.com",
+    "subject": "Bug report: checkout failing on mobile",
+    "body": "Hi, we noticed a crash when users add an item to cart on iOS. Steps to reproduce: open app, go to checkout, error appears."
+  },
+  {
+    "id": "8",
+    "date": "2025-08-26 10:39",
+    "from": "Old Friend <friend@personal.com>",
+    "to": "you@example.com",
+    "subject": "Invoice 42910 is past due \u2014 final notice",
+    "body": "Hello, your invoice #42910 is now overdue. Please remit payment by EOD today to avoid service interruption. Amount due: $249."
+  },
+  {
+    "id": "9",
+    "date": "2025-08-23 17:39",
+    "from": "Lucky Casino <spammy@badcasino.biz>",
+    "to": "you@example.com",
+    "subject": "July newsletter: 20% off campaign",
+    "body": "Welcome to our July newsletter with a 20% off promo and campaign results."
+  },
+  {
+    "id": "10",
+    "date": "2025-08-24 00:39",
+    "from": "VendorCo Billing <billing@vendorco.com>",
+    "to": "you@example.com",
+    "subject": "Press mention roundup \u2014 your brand featured",
+    "body": "Welcome to our July newsletter with a 20% off promo and campaign results."
+  },
+  {
+    "id": "11",
+    "date": "2025-08-26 19:39",
+    "from": "Marketing Hub <newsletter@marketinghub.com>",
+    "to": "you@example.com",
+    "subject": "Press mention roundup \u2014 your brand featured",
+    "body": "Welcome to our July newsletter with a 20% off promo and campaign results."
+  },
+  {
+    "id": "12",
+    "date": "2025-08-24 02:39",
+    "from": "VendorCo Billing <billing@vendorco.com>",
+    "to": "you@example.com",
+    "subject": "July newsletter: 20% off campaign",
+    "body": "Welcome to our July newsletter with a 20% off promo and campaign results."
+  },
+  {
+    "id": "13",
+    "date": "2025-08-24 20:39",
+    "from": "Sara (Prospect) <sara@prospect.io>",
+    "to": "you@example.com",
+    "subject": "Pricing for small plan + next steps",
+    "body": "We would like pricing for your starter plan. Could we schedule a 15-minute call?"
+  },
+  {
+    "id": "14",
+    "date": "2025-08-26 10:39",
+    "from": "Old Friend <friend@personal.com>",
+    "to": "you@example.com",
+    "subject": "Pricing for small plan + next steps",
+    "body": "We would like pricing for your starter plan. Could we schedule a 15-minute call?"
+  },
+  {
+    "id": "15",
+    "date": "2025-08-24 02:39",
+    "from": "Sara (Prospect) <sara@prospect.io>",
+    "to": "you@example.com",
+    "subject": "Press mention roundup \u2014 your brand featured",
+    "body": "Welcome to our July newsletter with a 20% off promo and campaign results."
+  },
+  {
+    "id": "16",
+    "date": "2025-08-23 23:39",
+    "from": "VendorCo Billing <billing@vendorco.com>",
+    "to": "you@example.com",
+    "subject": "Pricing for small plan + next steps",
+    "body": "We would like pricing for your starter plan. Could we schedule a 15-minute call?"
+  },
+  {
+    "id": "17",
+    "date": "2025-08-26 01:39",
+    "from": "Lucky Casino <spammy@badcasino.biz>",
+    "to": "you@example.com",
+    "subject": "Press mention roundup \u2014 your brand featured",
+    "body": "Welcome to our July newsletter with a 20% off promo and campaign results."
+  },
+  {
+    "id": "18",
+    "date": "2025-08-24 03:39",
+    "from": "VendorCo Billing <billing@vendorco.com>",
+    "to": "you@example.com",
+    "subject": "Win free money, click here now",
+    "body": "FREE money waiting! Click here to claim your crypto giveaway."
+  },
+  {
+    "id": "19",
+    "date": "2025-08-26 18:39",
+    "from": "Old Friend <friend@personal.com>",
+    "to": "you@example.com",
+    "subject": "Bug report: checkout failing on mobile",
+    "body": "Hi, we noticed a crash when users add an item to cart on iOS. Steps to reproduce: open app, go to checkout, error appears."
+  },
+  {
+    "id": "20",
+    "date": "2025-08-24 10:39",
+    "from": "ACME Support <support@acmecorp.com>",
+    "to": "you@example.com",
+    "subject": "Press mention roundup \u2014 your brand featured",
+    "body": "Welcome to our July newsletter with a 20% off promo and campaign results."
+  }
+]
